@@ -1,5 +1,6 @@
 package objects;
 
+
 public class second {
 	public static void main (String args[]) {
 		System.out.println("main class");

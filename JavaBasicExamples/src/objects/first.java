@@ -11,6 +11,7 @@ public class first {
 		int multiply = a*b;
 		System.out.println(multiply);
 		
+		
 	}
 
 }
